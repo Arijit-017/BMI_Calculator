@@ -23,11 +23,14 @@
     background-color: #ccc;
 }
 form{
-    padding-left: 100px;
+    /* padding-left: 100px; */
     display: flex;
     flex-wrap: wrap;
     flex-direction:column;
     align-items: center;
+}
+.input-group{
+    padding: 0px 5rem;
 }
 
 #weight-guide{
